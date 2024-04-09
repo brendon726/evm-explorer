@@ -127,7 +127,7 @@ defmodule BlockScoutWeb.Mixfile do
       # `:cowboy` `~> 2.0` and Phoenix 1.4 compatibility
       {:websocket_client, "~> 1.3"},
       {:wobserver, "~> 0.2.0", github: "poanetwork/wobserver", branch: "support-https"},
-      {:ex_json_schema, "~> 0.9.1"}
+      {:ex_json_schema, "~> 0.10.2"}
     ]
   end
 
